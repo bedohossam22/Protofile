@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ProtofileRemake/static/css/main.56777900.css",
+    "main.js": "/ProtofileRemake/static/js/main.32ec0b3a.js",
+    "static/media/Screenshot_4.png": "/ProtofileRemake/static/media/Screenshot_4.a6ea0150640760258b9b.png",
+    "static/media/Screenshot_2.png": "/ProtofileRemake/static/media/Screenshot_2.6560e54d4b53093ca161.png",
+    "static/media/Screenshot_3.png": "/ProtofileRemake/static/media/Screenshot_3.677b7941d7d3975790fd.png",
+    "static/media/Screenshot_1.png": "/ProtofileRemake/static/media/Screenshot_1.8a430f0d2d5826a088f8.png",
+    "static/media/Me.jpg": "/ProtofileRemake/static/media/Me.29ef35e9c41ea2a31fc1.jpg",
+    "index.html": "/ProtofileRemake/index.html",
+    "main.56777900.css.map": "/ProtofileRemake/static/css/main.56777900.css.map",
+    "main.32ec0b3a.js.map": "/ProtofileRemake/static/js/main.32ec0b3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56777900.css",
+    "static/js/main.32ec0b3a.js"
+  ]
+}
